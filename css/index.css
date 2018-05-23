@@ -10,7 +10,7 @@
 .right {
 	float: right;
 	width: 60%;
-}
+} */
 
 #headshot {
 	display: block;
@@ -19,14 +19,14 @@
 	border: 2px solid #E13A63;
 }
 
-.experience {
+/* .experience {
 	display: inline-block;
 	clear: both;
 	margin-top: 30px;
 	text-align: center;
-}
+} */
 
 header, .experience {
 	border: 2px solid #E13A63;
 	padding: 10px;
-} */
+}
